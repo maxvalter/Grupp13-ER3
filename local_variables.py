@@ -1,0 +1,1 @@
+pictures_le_filepath = r"C:\Users\wider\Documents\ER3_Projekt\Pictures_LE"
